@@ -19,6 +19,11 @@ TODO
 * [anokas - Two Sigma Time Travel (EDA)
 ](https://www.kaggle.com/anokas/two-sigma-time-travel-eda)
 
+## Modeling
+
+* [SRK - Univariate Analysis & Regression (LB : 0.006)
+](https://www.kaggle.com/sudalairajkumar/univariate-analysis-regression-lb-0-006)
+
 ## Winner's interviews
 
 * [Two Sigma Financial Modeling Challenge, Winner's Interview: 2nd Place, Nima Shahbazi, Chahhou Mohamed](http://blog.kaggle.com/2017/05/25/two-sigma-financial-modeling-challenge-winners-interview-2nd-place-nima-shahbazi-chahhou-mohamed/)
